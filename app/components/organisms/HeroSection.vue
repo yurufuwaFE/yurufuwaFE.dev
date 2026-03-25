@@ -29,10 +29,9 @@ const { displayText } = useTypingEffect([
         {{ displayText }}<span class="animate-pulse">|</span>
       </p>
 
-      <div class="hero-fade-in hero-delay-5 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
+      <!-- <div class="hero-fade-in hero-delay-5 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
         <GlowButton to="/blog">Blog を読む</GlowButton>
-        <GlowButton to="/#contact" variant="outline">お問い合わせ</GlowButton>
-      </div>
+      </div> -->
     </div>
 
     <div class="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">

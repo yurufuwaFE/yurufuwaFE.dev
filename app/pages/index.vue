@@ -12,6 +12,6 @@ useSeoMeta({
     <HeroSection />
     <AboutSection />
     <BlogListSection />
-    <ContactSection />
+    <!-- <ContactSection /> -->
   </div>
 </template>
