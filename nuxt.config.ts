@@ -51,6 +51,7 @@ export default defineNuxtConfig({
   },
 
   app: {
+    baseURL: '/yurufuwaFE.dev/',
     head: {
       htmlAttrs: { lang: 'ja' },
       title: 'yurufuwaFE.dev',
